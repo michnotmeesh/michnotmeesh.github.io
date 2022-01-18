@@ -1,57 +1,45 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Michelle Leano",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://michnotmeesh.github.io//images/IMG_2199_ccexpress.jpeg",
+    "email": "leanomc@hawaii.edu",
+    "phone": "808-386-5475",
+    "website": "https://michnotmeesh.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
+      "postalCode": "96797",
+      "city": "Waipahu",
+      "countryCode": "",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "michnotmeesh",
+        "url": "http://github.com/michnotmeesh"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "michelle-leano",
+        "url": "http://linkedin.com/in/michelle-leano-75487222a/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "education",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "web development",
       "keywords": [
       ]
     }
