@@ -5,38 +5,35 @@ image: images/learning-emporium.png
 title: Learning Emporium
 permalink: projects/learning-emporium
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-18
+date: 2020-04-18
 labels:
-  - 
+  - planning
+  - office work
 summary: I work as an office assistant that operates the Learning Emporium at UH Manoa.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/learning-emporium.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+What the project was about?
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The Learning Emporium is an online (and hopefully in-person again!) drop-in tutoring service. All students in the College of Natural Sciences at the University of Hawai'i, Manoa are able to utilize the tutoring services, but students from any college are welcome to utilize the Learning Emporium. 
+Tutoring services cover five subjects: General Chemistry, Organic Chemistry, Math, ICS, and Physics. The courses covered in each subject are as follows:  
+  - CHEM 131, 161, 162, 161L, and 162L
+  - CHEM 272, 272L, 273, and 273L
+  - MATH 134, 140, 160, 215, 241, 242, 243, 251A, and 252A
+  - ICS 111, 141, and 211
+  - PHYS 100, 151, 152, 170, and 272
+All of these are core subjects that most students of the College of Natural Sciences will eventually have to take.
 
-Here is some code that illustrates how we read values from the line sensors:
+What my role was and how much of the work I am responsible for?
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+I currently work as an office assitant for the Learning Emporium. My responsibilities include: coordinating orientations with tutors, creating tutorials for online tutoring, updating the Learning Emporium website, monitoring the Zoom rooms, helping troubleshoot problems tutors/students have with Zoom, and tracking information on how often the Learning Emporium is used. It my job to help create and maintain a structure that has been implemented to handle online tutoring. When I am working, I make it goal to improve the effectiveness of the Learning Emporium and make it as easy as possible for students to utilize it. 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
+What did I learn from the experience?
+
+A lot of our tasks at the Learning Emporium have changed since the beginning of COVID when everything was moved online. Similar to everyone else's experience, it was a train wreck. We were not prepared and had no idea how to begin again. Therefore, no quick decisions could be made and the Learning Emporium was closed for some time. During these times, I learned how important it was to collaborate ideas and consider how our changes would impact each group: tutors, students, and the Learning Emporium staff (that would be my team). My advisor took the time to survey each group and find out what they wanted to do moving forward. Through this experience, I learned to rely on others for help and that I produce better work when I recognize how my actions will impact others. I can no longer use the tutoring services because I've already passed those courses. But I imagined how frustrating it would be as a student taking calculus and not having any resources to help me.
 
 
