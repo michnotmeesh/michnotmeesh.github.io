@@ -36,4 +36,4 @@ What did I learn from the experience?
 
 A lot of our tasks at the Learning Emporium have changed since the beginning of COVID when everything was moved online. Similar to everyone else's experience, it was a train wreck. We were not prepared and had no idea how to begin again. Therefore, no quick decisions could be made and the Learning Emporium was closed for some time. During these times, I learned how important it was to collaborate ideas and consider how our changes would impact each group: tutors, students, and the Learning Emporium staff (that would be my team). My advisor took the time to survey each group and find out what they wanted to do moving forward. Through this experience, I learned to rely on others for help and that I produce better work when I recognize how my actions will impact others. I can no longer use the tutoring services because I've already passed those courses. But I imagined how frustrating it would be as a student taking calculus and not having any resources to help me.
 
-
+If you need tutoring come to the <a href="https://uhnatsci.org/emporium/tutorschedules.php">Learning Emporium</a>!
