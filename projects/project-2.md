@@ -22,4 +22,4 @@ I am a mentor for ICSpark and I made the Nonogram project to focus on practicing
 
 The officers of ICSpark held a practice day for all mentors to present their projects. While listening to other mentors present, I took notes on how their project could improve because it could also be applied to my own. For example, many mentors included before and after videos that demonstrated the finished project. Making the challenge required thinking from the student's perspective and bringing myself back to when I first started programming. I had to be very detailed in my instructions but also not too wordy. I've never been the "teacher" before, so this was a very good experience to learn my own weaknesses in web development.
  
-Source: <a href="https://github.com/michnotmeesh/icspark"><i class="large github icon"></i>Nonogram/vacay</a>
+Source: <a href="https://github.com/michnotmeesh/icspark"><i class="large github icon"></i>nonogram-puzzle</a>
