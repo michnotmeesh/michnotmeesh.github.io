@@ -1,61 +1,27 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/hawaii.jpeg
+title: Wikiō Voiceover
+permalink: projects/wikio
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-12-07
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - ʻōlelo Hawaiʻi
+  - Translation
+  - Media
+summary: A clip from Rap Reiplinger's comdey skit with Hawaiian-dub.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Last semester I took HAW 201 and the final project was a wikiō (video) that was dubbed with Hawaiian. The requirements for the final project included rewriting and translating the script into Hawaiian, recording the script with your own voice to demonstrate accurate pronunciation, and editing the voiceover onto the video. We were given 2 weeks to complete the project and we must team up with another classmate. I chose to team up with a classmate who I got to know fairly well (as well as you can online) through Zoom.
 
-To give you a flavor of the game, here is an excerpt from one run:
+My classmate and I were organized and created a timeline of deadlines and tasks. We split the task so that we would each contribute a little to translating, writing, and recording. I also have some experience with video editing, so I offered to edit the voiceover video if my partner was able to record the main character's voice. Unfortunatly, my partner caught COVID when we had to record and it became difficuult for her to continue all school work. I felt very bad for her and I informed the professor of our situation. In the end, we still needed to turn in a final project and I was perfectly capable of recording the script by myself. I sent her every recording and asked for her approval to make sure she was still included in the process of the final project. She essentially became the quality manager and I think that was a very important role.
 
-<hr>
+This was a interesting experience because of COVID. I'm sure we've all done group projects by ourselves before and then reprimanded our groupp members in the peer evaluation. However, this was the first time "getting a good grade" was not my sole motivation for doing well. My partner caught COVID at work and she suspected some people were feeling sick. They did not take off of work becuase they would not be paid if they had COVID and weren't able to make their shifts. Hearing this news made me extremely upset at the irresponsible, yet sadly inevitable, decisions that her coworkers made. To me, this was a situation that could not be predicted and my partner did not deserve to fail this final. Even with COVID, my partner was resilient and conducted her role as quality manager very well. I strongly believe that safety and health always comes first.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
+Watch our final project here!
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
