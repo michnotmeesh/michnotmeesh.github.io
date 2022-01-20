@@ -50,4 +50,6 @@ When online learning began, it made students more comfortable with publicly expr
 
 There are also many IROs, like ICSpark, PANDAS, and SWITCH, that make it easy to practice coding, network, find academic and career advice, and simply make new friends.
 
-For me, learning to like coding again meant finding comfort in the struggle of learning and discovering new interests through others. If you're in ICS 111 right now and can't seem to see the end of the nightmare that is Java, just believe that it'll get better. It probably won't get easier, but it can become enjoyable (especially if you make it to 314!).
+For me, learning to like coding again meant finding comfort in the struggle of learning and discovering new interests through others. Now that I'm past the nightmare that is Java (and C), I'm excited for the new challenges that'll come with exploring web development and coding in JavaScript again.
+
+If you're in ICS 111 right now and can't seem to see the end of your hardships, just believe that it'll get better. It probably won't get easier, but it can become enjoyable (especially if you make it to 314)!
