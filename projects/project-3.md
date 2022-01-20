@@ -21,7 +21,5 @@ My classmate and I were organized and created a timeline of deadlines and tasks.
 
 This was a interesting experience because of COVID. I'm sure we've all done group projects by ourselves before and then reprimanded our groupp members in the peer evaluation. However, this was the first time "getting a good grade" was not my sole motivation for doing well. My partner caught COVID at work and she suspected some people were feeling sick. They did not take off of work becuase they would not be paid if they had COVID and weren't able to make their shifts. Hearing this news made me extremely upset at the irresponsible, yet sadly inevitable, decisions that her coworkers made. To me, this was a situation that could not be predicted and my partner did not deserve to fail this final. Even with COVID, my partner was resilient and conducted her role as quality manager very well. I strongly believe that safety and health always comes first.
 
-Watch our final project here!
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Watch all the final nā wikiō from my class <a href="https://www.youtube.com/watch?v=HMfdsfvWaUI">here</a>. My groupʻs video starts at 10:20 and I hope you enjoy!
 
