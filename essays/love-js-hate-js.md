@@ -42,7 +42,7 @@ College is rough, but it's okay.
 
 ## Learning to like coding...again
 
-If you ever start to question your college choices or maybe doubt your ability to achieve a degree in computer science, look back at your old code. Be prepared to cringe. But also be prepared to learn something new about yourself. I learned how to enjoy coding again.
+If you ever start to question your college choices or maybe doubt your ability to achieve a degree in computer science, set up an appointment with your professor and ask for help. Be prepared to learn something new about yourself, not about code.
 
 It's obvious that I made it past those introductory Java courses. As contrary as it felt, Java wasn't the worst (the worst was actually C) and at some point, college did become manageable. I owe a lot of my success and sanity to the classmates, TAs, and professors I was able to meet along the way. 
 
