@@ -14,11 +14,11 @@ labels:
 
 There are many levels to web development! 
 
-As I get back into the swing of coding, I wanted to set some goals toward becoming a successful software engineer.
+As I get back into the swing of coding, I wanted to set some goals toward improving as a software engineer.
 
-My realistic goal for this semester is to improve my basic skills in web development. This means becoming comfortable with HTML, CSS, and JavaScript.
+My realistic goal for this semester is to improve my basic skills in web development. This means being able to create my own HTML, CSS, and JavaScript files from start to finish.
 
-My long-term 2-year goal (which is the remainder of my time as a UH student) is to increase the amoount of tools in my toolbox as a web developer. After some research, here are the tools I'd like to have before I graduate.
+My long term 2-year goal (which is the remainder of my time as a UH student) is to increase the amount of tools in my toolbox as a web developer. Some of these tools are "industry" standard and will make my portfolio better. After some research, here are the tools I'd like to have before I graduate.
 
 ## Python
 
