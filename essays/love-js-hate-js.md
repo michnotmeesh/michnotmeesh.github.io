@@ -16,13 +16,13 @@ Programming for the first time is not an easy task. Like any new adventure, ther
 
 The very first programming course at my high school was offered my senior year and I signed up becuase who isn't attracted to new things? Plus, it was my last year and I was desperate to figure out my ***passion*** in the next 9 months.
 
-The course was title ****Introduction to Web Develolpment***, and I knew it was going to be a worthwhile course because it filled up with students from various pathways (think of pathways as majors are in college).
+The course was titled ***"Introduction to Web Develolpment"***, and I knew it was going to be a worthwhile course because it filled up with students from various pathways (think of pathways as majors are in college).
 
 Learning how to build your own website was not a skill isolated only to students interested in computer science.
 
-For the entire year, I looked forward to going to that class after every lunch period becuase I made friends who had so many different interests that I never expected to learn about in a programming course.
+For the entire year, I looked forward to going to that class after every lunch period becuase I made friends who had so many different interests that I never expected to learn about in a programming course. For example, one kid wanted to make a website that organized and tracked the bets his friends made with each for their Fantasy Football league.
 
-The content was extremely difficult to understand, but I was not alone. No one in that class had prior experience with coding and that motivated many students to pursue learning and practicing outside of the class time. I learned what Stack Exchange was and my classmates and I used it every day find example code.
+The content was extremely difficult to understand, but I wasn't alone. No one in that class had prior experience with coding and that motivated many students to pursue learning and practicing outside of the class time. I learned what Stack Exchange was for the first time and my classmates and I used it every day to find solutions to our bugs.
 
 This introductory course was the main reason why I chose to study Computer Science in college.
 
@@ -42,15 +42,12 @@ College is rough, but it's okay.
 
 ## Learning to like coding...again
 
-There's something comforting about facing your fears and creating new joy in 
-Revisting old code and cringing
+If you ever start to question your college choices or maybe doubt your ability to achieve a degree in computer science, look back at your old code. Be prepared to cringe. But also be prepared to learn something new about yourself. I learned how to enjoy coding again.
 
-Joining ICSpark
+It's obvious that I made it pass those introductory Java courses. As contrary as it felt, Java wasn't the worst (the worst was actually C) and at some point, college did become manageble. I owe a lot of my success and sanity to the classmates, TAs, and professors I was able to meet along the way. 
 
-ICS 314
+When online learning began, it made students more comfortable with publicly expressing their struggles about college. We've made Discord servers for every ICS course with the intention to "study" together. But they always eventually became outlets for releasing emotional and mental stress. It was comforting to know we weren't experiencing these hardships alone and that if we could enjoy struggling together, then maybe we can find the joy in learning together. 
 
-All of these things make me excited to code again. 
+There are also many IROs, like ICSpark, PANDAS, and SWITCH, that make it easy to practice coding, network, find academic and career advice, and to simply make new friends.
 
-College is supposed to be hard because it makes you realize what is worth your time
-
-I have experience with learning web development the first week in has been very fulfilling!
+For me, learning to like coding again meant finding comfort in the struggle of learning and discovering new interest through others. If you're in ICS 111 right now and can't seem to see the end of the nightmare that is Java, just believe that it'll get better. It probably won't get easier, but it can become enjoyable.
