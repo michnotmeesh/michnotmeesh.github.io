@@ -23,6 +23,7 @@ Tutoring services cover five subjects: General Chemistry, Organic Chemistry, Mat
   - MATH 134, 140, 160, 215, 241, 242, 243, 251A, and 252A
   - ICS 111, 141, and 211
   - PHYS 100, 151, 152, 170, and 272
+
 All of these are core subjects that most students of the College of Natural Sciences will eventually have to take.
 
 I currently work as an office assitant for the Learning Emporium. My responsibilities include: coordinating orientations with tutors, creating tutorials for online tutoring, updating the Learning Emporium website, monitoring the Zoom rooms, helping troubleshoot problems tutors/students have with Zoom, and tracking information on how often the Learning Emporium is used. It my job to help create and maintain a structure that has been implemented to handle online tutoring. When I am working, I make it goal to improve the effectiveness of the Learning Emporium and make it as easy as possible for students to utilize it. 
