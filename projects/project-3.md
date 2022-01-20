@@ -13,7 +13,7 @@ labels:
 summary: A clip from Rap Reiplinger's comdey skit with Hawaiian-dub.
 ---
 
-<img class="ui image" src="images/rap-reip.png">
+<img class="ui image" src="../images/rap-reip.png">
 
 Last semester I took HAW 201 and the final project was a wikiō (video) that was dubbed with Hawaiian. The requirements for the final project included rewriting and translating the script into Hawaiian, recording the script with your own voice to demonstrate accurate pronunciation, and editing the voiceover onto the video. We were given 2 weeks to complete the project and we must team up with another classmate. I chose to team up with a classmate who I got to know fairly well (as well as you can online) through Zoom.
 
