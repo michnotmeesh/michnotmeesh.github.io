@@ -42,6 +42,21 @@
       "name": "web development",
       "keywords": [
       ]
+    },
+    {
+      "name": "music hardware",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "machine learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "sustainability",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -51,10 +66,13 @@
       "keywords": [
         "C",
         "C++",
+        "HTML",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "CSS",
+        "PHP",
+        "Python",
+        "SQL"
       ]
     },
     {
@@ -62,91 +80,71 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-24",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.86",
       "courses": [
+        "ICS 111 (Java Programming)",
+        "ICS 141/241 (Discrete Mathematics I & II)",
+        "ICS 211 (Data Structures)",
+        "ICS 212 (Program Structure)",
+        "ICS 311 (Algorithms),
+        "ICS 314 (Software Engineering I)"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "College of Natural Sciences Deans Office",
+      "position": "Administrative Assistant",
+      "website": "https://uhnatsci.org/emporium/tutorschedules.php",
+      "startDate": "2021-05-17",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Provide support for the STEM Coordinator in the CNS Deans Office",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain and update Learning Emporium website",
+        "Assist in the update/creation of a system for processing and tracking curriculum changes",
+        "Assist in the compilation of data for college planning purposes"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "GEAR UP Waipahu",
+      "position": "Peer Mentor",
+      "website": "",
+      "startDate": "2021-01-21",
+      "endDate": "2021-08-24",
+      "summary": "Provide academic, mentoring, and other assistance to high school students of the class of 2024 at Waipahu High School",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Plan and conduct on-site GEAR UP activities for students, parents and school staff",
+        "Observe & assess the students' abilities & needs as they prepare for college"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Mentor",
+      "startDate": "2021-09-13",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Free coding programs for 6th - 12th graders",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Design challenges and projects for students to try",
+        "Lead presentations on intro to web development"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
