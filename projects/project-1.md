@@ -9,6 +9,7 @@ date: 2020-04-18
 labels:
   - planning
   - office work
+  - tutoring
 summary: I work as an office assistant that operates the Learning Emporium at UH Manoa.
 ---
 
