@@ -15,4 +15,8 @@ The whole purpose of asking a question is to receive a good answer. So itʻs exp
 
 <a href="https://stackoverflow.com/questions/37018613/how-to-have-the-foreach-loop-to-wait-for-http-get-to-complete-before-moving-on">Good Question</a>
 
-## Your Questions
+## Does Your Question Look Like This?
+
+<a href="https://stackoverflow.com/questions/35318513/if-user-disable-cookies-my-project-session-stop-working?noredirect=1&lq=1">Bad Question</a>
+
+
