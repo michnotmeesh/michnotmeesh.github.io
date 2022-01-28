@@ -3,9 +3,11 @@ layout: essay
 type: essay
 title: Why Your Questions Might Be Dumb
 # All dates must be YYYY-MM-DD format!
-date: 
+date: 2022-01-27
 labels:
-  - 
+  - questions
+  - stackoverflow
+  - self-assessment
 ---
 *Just as the saying goes, there are no dumb questions. However, there are dumb ways of asking questions*
 
