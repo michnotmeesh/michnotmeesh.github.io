@@ -27,7 +27,9 @@ If you're anything like me, you learn equally as well from what *not* to do. Thi
 
 <a href="https://stackoverflow.com/questions/35318513/if-user-disable-cookies-my-project-session-stop-working?noredirect=1&lq=1">Bad Question from Stackoverflow</a>
 
-<img src="images/bad-question.png" alt="Bad Question">
+<div>
+  <img class="ui image" src="../images/bad-question.png">
+</div>
 
 In this example, there is the least bit of explanation of why the developer's program does not work.
 Context is very important when asking a question because, without it, your question will get flagged as a duplicate. When this happens, it shows that the developer didn't do their own research or attempt to solve their problem before asking for help. In fact, there are no details about what the original developer may have done beforehand. We can further conclude that this is a bad question because other developers are replying with questions to clarify the original poster's problem. The first comment is "*What's your question?*" That's usually not a good thing when that's the answer to a question. These developers were very nice because most people wouldn't bother asking for clarification on a problem that isn't theirs. You can assume this behavior from most people, which further emphasizes why it's important to ask smart questions!
