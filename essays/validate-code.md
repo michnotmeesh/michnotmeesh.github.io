@@ -21,7 +21,7 @@ It is important to have readable and well-structed code!
 By using ESlint, I learned really quickly how all of these errors are simply practice for achieving readable and well-structured code.
 
 I like how it also made it easier to search and debug all errors visually.
-In other ICS classes, it would literally take hours and hours and hours to find a missing semi colon or curly bracket.
+In other ICS classes, it would literally take hours and hours and hours to find a missing semi colon or curly bracket. The errors even check for spelling within comments!
 Not all of the error messages are specific, but they are pretty decent and they take you to the exact line of where the error is. I like that a lot!
 
 When I code, I try my best to ignore the ESlint errors and focus on getting the functions and program to run.
