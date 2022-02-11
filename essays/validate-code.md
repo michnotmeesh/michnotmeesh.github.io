@@ -17,10 +17,6 @@ This is my formal apology to all previous ICS TAs for having to read my code bef
 I felt quite intimidated the first time setting up IntelliJ, ESLint, and GitHub. There were many instructions and I ran into many issues with the setup alone. However, starting is the first step and these tools make coding a whole lot easier.
 
 ### ESLint
-
-<div>
-<img class="ui image medium centered" src="../images/eslint-meme.jpeg">
-</div>
   
 ESLint helped my code become more readable and well-structured, but there was definitely a learning curve. It was a bit frustrating to suddenly have so many warnings and red underlines appear. It was especially annoying when the errors were for the tiniest _mistakes_. Like, will the program really not run if I don't delete those trailing spaces? It shouldn't be a big deal.
 
@@ -29,6 +25,10 @@ However, receiving those errors and taking the time to fix them was very helpful
 When I code now, I have two priorities. The first priority is to focus on writing each function and getting the program to run as expected. I ignore all of the ESLint errors because most of them are quick fixes for readability purposes. When the program runs as I want it to, then I move on to the next priority: making the code readable. This is when I focus on the ESLint errors. When I'm done correcting all of the errors, I take a look at my code and think "This **does** look so much better!"
 
 ESLint makes it easier to search and debug any code. In other ICS classes, it would take hours and hours and hours to find a missing semicolon or missing curly bracket because it was just so messy and illegible. Although not every ESLint error message is specific or helpful, it is definitely an upgrade from what we had to do in the previous years.
+
+<div>
+<img class="ui image medium centered" src="../images/eslint-meme.jpeg">
+</div>
 
 ### GitHub and git
 
