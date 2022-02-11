@@ -9,6 +9,7 @@ labels:
   - intellij
   - coding standards
 ---
+
 This is my formal apology to all previous ICS TAs for having to read my code before I learned about coding standards and code validating tools (No wonder it always took _forever_ to grade our homework). After this module, my biggest takeaway was realizing how following coding standards does so much more than changing the format of your code.
 
 ## As a Learner
