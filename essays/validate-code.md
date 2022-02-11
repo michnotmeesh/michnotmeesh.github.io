@@ -13,7 +13,7 @@ This is my formal apology to all previous ICS TAs for having to read my code bef
 
 ## As a Learner
 
-I felt quite intimidated the first time setting up IntelliJ, ESLint, and GitHub. There were many instructions and I ran into many issues with the setup alone. However, starting is the first step and these tools make coding a whole easier.
+I felt quite intimidated the first time setting up IntelliJ, ESLint, and GitHub. There were many instructions and I ran into many issues with the setup alone. However, starting is the first step and these tools make coding a whole lot easier.
 
 ### ESLint
 
@@ -35,7 +35,7 @@ ESLint makes it easier to search and debug any code. In other ICS classes, it wo
 <img class="ui image medium centered" src="../images/github.jpeg">
 </div>
 
-Git is basically the ultimate redo button and GitHub is the log that keeps all the old changes. I haven't used the individual commits, fetch, or branches in any practical ways just yet, but I can see how useful it would be when working on a bigger project with multiple developers. I also really appreciate how each commit distinguishes changes; green for additions, yellow for modifications, and red for deletion. Each commits even logs who made the changes.
+Git is basically the ultimate redo button and GitHub is the log that keeps all the old changes. I haven't used the individual commits, fetch, or branches in a practical way just yet, but I can see how useful it would be when working on a bigger project with multiple developers. I also really appreciate how each commit distinguishes changes; green for additions, yellow for modifications, and red for deletion. Each commits even logs who made the changes.
 
 ## As a Developer
 
@@ -43,7 +43,7 @@ Git is basically the ultimate redo button and GitHub is the log that keeps all t
 <img class="ui image large centered" src="../images/laulima_full_banner.jpeg">
 </div>
 
-GitHub and git are extremely powerful; it's inspiring. While exploring GitHub, I was thinking about how easier it would be if all of our assignments were done through GitHub. In other words, I was trying to find a way to get rid of Laulima (because it really does suck).
+GitHub and git are extremely powerful; it's inspiring. While exploring GitHub, I was thinking about how easier it would be if all of our coding assignments were done through GitHub. In other words, I was trying to find a way to get rid of Laulima (because it really does suck).
 
 Here is my _general_ idea for using git and GitHub to handle coding assignments:
 1. Instructor creates a private repository for the assignment, which includes instructions, expectations, and/or possibly starter code
@@ -51,7 +51,7 @@ Here is my _general_ idea for using git and GitHub to handle coding assignments:
 3. To turn in the assignment, students push their repository onto another repository specifically for turning in assignments
 4. When it is past the due date, the instructor makes the repository private and submissions are no longer accepted
 
-This is not a complete idea, but I strongly believe that something like GitHub can be modified to support distributing and collecting assignments in a secure and easy way. I even think receiving feedback, which would also benefit the TA, is better done through GitHub rather than one comment section in Laulima. Laulima is not the best fit for ICS assignments. If there is a way to make the need for Laulima obsolete, I'm all for it.
+This is not a complete idea, but I strongly believe that something like GitHub can be modified to support distributing and collecting assignments in a secure and easy way. Laulima is not the best fit for ICS assignments. I even think grading is better done through GitHub because the TA would see **exactly** what the student sees. If configured to do so, GitHub could possibly handle line-by-line feedback and it would be a better UI for students to see the specific lines where mistakes were made (rather than a single feedback box on Laulima). If there is a way to make the need for Laulima obsolete, I'm all for it.
 
 ## Looking Forward
 Growth is realizing that your code is no longer just for your own reference. Utilizing coding standards introduced a crucial part of software engineering: teamwork. Although we have not started any group work, this week provided resources and solid expectations for how group work can be done effectively.
