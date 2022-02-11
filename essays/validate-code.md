@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Why Your ICS 111/211 Takes So Long to Grade
+title: Why Your ICS TA Took So Long to Grade
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-09
 labels:
@@ -25,23 +25,24 @@ When I code now, I have two priorities. The first priority is to focus on writin
 
 ESLint makes it easier to search and debug any code. In other ICS classes, it would literally take hours and hours and hours to find a missing semi colon or curly bracket because it was just so messy and illegible. Although not every ESLint error message is specific or helpful, it is definiely an upgrade from what we had to do before in order to fix errors.
 
-## GitHub and git
+### GitHub and git
 
-Git is extremely powerful. I was thinking about how all of our assignments can basically be done through Git and graded through Git. Aka we could get rid of Laulima altogether.
-Like the instructor could make a repository for each assignment and students would have to clone the repository then work on it locally (similar to the techfolio). Even security is covered through GitHub because repositories can be made private and we can simply make the TA a collaborator. I haven't fully explored GitHub, yet. But the final peice would be grading. If there's a way to get line-for-line grading comments through GitHub we could make the need for Laulima obsolete.
+Git is basically the ultimate redo button and GitHub is the log that keeps all the old changes. I haven't used the individual commits, fetch, or branches in any practical ways just yet, but I can see how useful it would be when working on a bigeer project with multiple developers. I also really appreciate how each committ distinguishes changes; green for additions, yellow for modifications, and red for deletion. Each committ even logs who made the changes. GitHub and git make group work very simple.
 
 ## As a Developer
 
-Shortcuts are amazing! We should just get rid of the mouse. The shortcuts make everything easier and it really affirms how annoying it is to click things.
+GitHub and git is extremely powerful, its inspiring. While exploring GitHub, I was thinking about how all of our assignments can basically be done through GitHub and graded using git. In other words, I was really trying to find a way to get rid of Laulima (because it really does suck).
 
-Git is also awesome! It's basically the ultimate redo button. I like how we can go into individuals commits to see changes. We can also go back to specific commits and get back my work. It reminded me of google doc hisory log and how you're able to revert old changes.
+Here is my _general_ idea for using git to conduct assignments would work:
+1. Instructor create a private repository for the assignment, which includes instructions, expectations, and possibly starter code
+2. Students get invited and clone the repository onto their local computer. When working on the assignment, students are allowed to make as many committs as they need.
+3. To turn in the assignment, students push their repository onto another repository specifically for turning in assignments
+4. When it is past the due date, the instructor makes the repository private and no submissions are accepted
 
+This is not a complete idea, but I strongly believe that something like GitHub can be modified to support distributing and collecting assignments in a secure and easy way. If there is a way to make the need for Laulima obsolete, I'm all for it.
 
 ## Looking Forward
 Growth is realizing that your code is no longer just for your own reference. Utilizing coding standards introduced a crucial part of software engineering: teamwork. Although we have not started any group work, yet, this week provided resources and standards for how group work can be done effectively.
 
-Growth is validating your code and liking it. If you have the time, shoot your former TAs an email thanking them for even attempting to read your mess of code.
 
-I kind of like the code validators because:
-1. I can read other people's code easily
-2. Other people can read my code easily
+_If you have the time, shoot your former TAs an email thanking them for even attempting to read your mess of code._
