@@ -18,7 +18,7 @@ I felt quite intimidated the first time setting up IntelliJ, ESLint, and GitHub.
 ### ESLint
 
 <div>
-<img class="ui image large centered" src="images/eslint-meme.jpeg">
+<img class="ui image large centered" src="../images/eslint-meme.jpeg">
 </div>
   
 ESLint helped my code become more readable and well-structured, but there was definitely a learning curve. It was a bit frustrating to suddenly have so many warning and red underlines appear. It was especially annoying when the errors were for the tiniest mistakes, like trailing spaces or missing spaces. Like, will the program not run if I don't fix those errors? It shouldn't be a big deal.
