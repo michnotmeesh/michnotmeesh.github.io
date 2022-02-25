@@ -18,7 +18,7 @@ If Kanye West were a software engineer, he probably would have wrote this instea
 
 > _Time is extremely valuable and I prefer to use UI frameworks to save time, work smarter, and be more consistent_
 
-We know that beautiful interactive, modern, and sleek websites can absolutely be made without using any UI frameworks. If you put in enough time and effort into reading ****que sarcasm**** the wonderful [CSS documentation], it is possible to make some amazing websites! However, the reality is that it would take hours and hours to write thousands and thousands of lines of code if done without frameworks. Plus, there are so many little details to keep track of. If we are strictly only considering `HTML` and `CSS`, the developer would need to keep track of every class name, ids, attribute, and the list continues! I think it is really easy to get caught in these specifics and lose track of the big picture when you have to keep track of all these details. Therefore, using an appropriate framework can make creating a beautiful quality website with less time and effort.
+We know that beautiful interactive, modern, and sleek websites can absolutely be made without using any UI frameworks. If you put in enough time and effort into reading this very wonderful [CSS documentation], it is possible to make some amazing websites! However, the reality is that it would take hours and hours to write thousands and thousands of lines of code if done without frameworks. Plus, there are so many little details to keep track of. If we are strictly only considering `HTML` and `CSS`, the developer would need to keep track of every class name, ids, attribute, and the list continues! I think it is really easy to get caught in these specifics and lose track of the big picture when you have to keep track of all these details. Therefore, using an appropriate framework can make creating a beautiful quality website with less time and effort.
 
 # My Favorite Module
 > _Everything got a bad side, even a conscience, Now you're coding not as a novice_ - Big Sean, as an advocate for frameworks
@@ -35,8 +35,7 @@ The only way to truly understand a framework like Semantic UI was through practi
 
 ------
 This essay makes references to my favorite rap artists. Check them out!
-[Kanye West]
-[Big Sean]
+[Kanye West] & [Big Sean]
 
 [CSS documentation]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 [What tools do you have in your toolbox?]: https://michnotmeesh.github.io/essays/toolbox.html
