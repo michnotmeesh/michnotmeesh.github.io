@@ -11,11 +11,11 @@ labels:
 ---
 Kanye West once said:
 
-> Time is extremely valuable and I prefer to waste it. - Kanye West
+> Time is extremely valuable and I prefer to waste it
 
 If Kanye West were a software engineer, he probably would have wrote this instead:
 
-> Time is extremely valuable and I prefer to use UI frameworks to save time, work smarter, and be more consistent.
+> Time is extremely valuable and I prefer to use UI frameworks to save time, work smarter, and be more consistent
 
 # Things are getting easier!
 
