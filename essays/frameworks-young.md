@@ -9,22 +9,19 @@ labels:
   - Semantic UI
   - Web Development
 ---
+# Things are getting easier!
 Kanye West once said:
 
-> Time is extremely valuable and I prefer to waste it
+> _Time is extremely valuable and I prefer to waste it_
 
 If Kanye West were a software engineer, he probably would have wrote this instead:
 
-> Time is extremely valuable and I prefer to use UI frameworks to save time, work smarter, and be more consistent
+> _Time is extremely valuable and I prefer to use UI frameworks to save time, work smarter, and be more consistent_
 
-# Things are getting easier!
-
-We know that beautiful interactive, modern, and sleek websites can absolutely be made without using any UI frameworks. If you put in enough time and effort into reading ****que sarcasm**** the wonderful [CSS documentation], it is possible to make some amazing websites! However, the reality is that it would take hours and hours to write thousands and thousands of lines of code if done without frameworks. Plus, there are so many little details to keep track of. If we are strictly only considering `HTML` and `CSS`, the developer would need to keep track of every class name, ids, attribute, and the list continues! I think it is really easy to get caught in these specifics and lose track of the big picture when you have to keep track of all these details. Therefore, using an appropriate framework can make creating a beautiful quality website with less time and effort.
-
-
-> Everything got a bad side, even a conscience, Now you're coding not as a novice - Big Sean, as an advocate for frameworks
+We know that beautiful interactive, modern, and sleek websites can absolutely be made without using any UI frameworks. If you put in enough time and effort into reading ***que sarcasm*** the wonderful [CSS documentation], it is possible to make some amazing websites! However, the reality is that it would take hours and hours to write thousands and thousands of lines of code if done without frameworks. Plus, there are so many little details to keep track of. If we are strictly only considering `HTML` and `CSS`, the developer would need to keep track of every class name, ids, attribute, and the list continues! I think it is really easy to get caught in these specifics and lose track of the big picture when you have to keep track of all these details. Therefore, using an appropriate framework can make creating a beautiful quality website with less time and effort.
 
 # My Favorite Module
+> _Everything got a bad side, even a conscience, Now you're coding not as a novice_ - Big Sean, as an advocate for frameworks
 
 I always knew that the essence of most UI frameworks was to make programming easier on the developer. However, I was not expecting the difference that it makes to be this huge!  I was really shocked at how easy it was to apply style without even touching the `style.css`. Plus, the implementation of Semantic UI is relatively readable and self-explanatory. I remember spending almost a whole week building a single webpage and my `CSS` file would be hundreds of lines. But with Semantic UI, the `CSS` file barely reaches 50 lines of code and the `HTML` file is easier to read because it utilizes class names rather than tag names.
 
