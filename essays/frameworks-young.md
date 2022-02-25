@@ -23,7 +23,9 @@ We know that beautiful interactive, modern, and sleek websites can absolutely be
 # My Favorite Module
 > _Everything got a bad side, even a conscience, Now you're coding not as a novice_ - Big Sean, as an advocate for frameworks
 
-I always knew that the essence of most UI frameworks was to make programming easier on the developer. However, I was not expecting the difference that it makes to be this huge!  I was really shocked at how easy it was to apply style without even touching the `style.css`. Plus, the implementation of Semantic UI is relatively readable and self-explanatory. I remember spending almost a whole week building a single webpage and my `CSS` file would be hundreds of lines. But with Semantic UI, the `CSS` file barely reaches 50 lines of code and the `HTML` file is easier to read because it utilizes class names rather than tag names.
+I always knew that the essence of most UI frameworks was to make programming easier on the developer. However, I was not expecting the difference that it makes to be this huge!  I was really shocked at how easy it was to apply style without even touching the `style.css`. Plus, the implementation of Semantic UI is relatively readable and self-explanatory. I remember spending almost a whole week building a single webpage and my `CSS` file would be hundreds of lines. But with Semantic UI, the `CSS` file barely reaches 50 lines of code and the `HTML` file is easier to read because it utilizes class names rather than tag names. Look at this mockup I made of TELFAR's official website!
+
+
 
 I'm glad that I'm learning about frameworks because I feel like I am growing as a software developer. In an earlier essay, "[What tools do you have in your toolbox?]," I addressed that one of my goals for the next year was to learn about frameworks because so many employers and the industry require an understanding of specific frameworks as the new standard. With that being said, similar to Professor Johnson, this might actually be *my favorite module* and I'm very excited to learn about more frameworks 
 
