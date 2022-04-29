@@ -23,7 +23,7 @@ This is a common metaphor used to advocate for utilizing the knowledge of those 
 
 The best part about these patterns is their reusability and accessibility. Christopher Alexander describes design patterns to be created:
 
-> *...in such a way that you can use this solution a million times over, without doing it the same way twice* - Christopher Alexander
+> *"...in such a way that you can use this solution a million times over, without doing it the same way twice"* - Christopher Alexander
 
 One of the very first design patterns we learned was introduced in the lesson about Classes and Objects. We learned how to create objects that could be manipulated to appropriately fit into our programs. We practiced making child objects from parent objects and figuring out how different functions can be inherited to progressively fit each class to build up our program. For most of us, this lesson was taught over two years ago. Yet the computational understanding and practice of it still remain.
 
