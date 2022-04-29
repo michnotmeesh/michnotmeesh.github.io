@@ -9,13 +9,13 @@ labels:
   - reuse
   - frameworks
 ---
-<div>
-  <img class="ui left floated medium image" src="../images/copying-image.png">
-</div>
-
 # We Stand On the Shoulders of Giants
 
 This is a common metaphor used to advocate for utilizing the knowledge of those who came before us to achieve more progress. It would be wrong to not be aware of these teachings and experiences because whether we know it or not, people's past experiences are always influencing us. In programming, there are many opportunities to "stand on the shoulders of giants" because of design patterns and the efforts of former programmers.
+
+<div>
+  <img class="ui left floated medium image" src="../images/copying-image.png">
+</div>
 
 # What Giants Are You Standing on?
 
