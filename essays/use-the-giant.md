@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Use The Giant?
+title: Use The Giant and Use Design Patterns
 # All dates must be YYYY-MM-DD format!
 date: 2022-04-28
 labels:
