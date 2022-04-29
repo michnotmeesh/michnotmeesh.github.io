@@ -23,11 +23,11 @@ This is a common metaphor used to advocate for utilizing the knowledge of those 
 
 The best part about these patterns is their reusability and accessibility. Christopher Alexander describes design patterns to be created:
 
-> *"...in such a way that you can use this solution a million times over, without doing it the same way twice"* - Christopher Alexander
+> *"...in such a way that you can use this solution a million times over, without doing it the same way twice"*
 
 One of the very first design patterns we learned was introduced in the lesson about Classes and Objects. We learned how to create objects that could be manipulated to appropriately fit into our programs. We practiced making child objects from parent objects and figuring out how different functions can be inherited to progressively fit each class to build up our program. For most of us, this lesson was taught over two years ago. Yet the computational understanding and practice of it still remain.
 
-For our final project, Job Match'UH, our group has utilized similar design patterns. We have to create many documents and collections to store and access data. Although they are their own separate documents, we planned for each collection to be built from each other so that they could be built off of each other. This means that their schemas may be similar, yet different enough to cater to their corresponding functionality on the application. With each of these collections, the application progresses further toward varying and improved functionality.
+For our final project, Job Match'UH, our group has utilized similar design patterns. We have to create many documents and collections to store and access data. Although they are their own separate documents, we planned for each collection to be **built from each other** so that they could be **built off of each other**. This means that their schemas may be similar, yet different enough to cater to their corresponding functionality on the application. With each of these collections, the application progresses further toward varying and improved functionality.
 
 All the progress we've made so far with understanding and programming our application is because of the former programmers that documented and shared their code. Bowfolios, meteor-react-template, Digits, RadGrad, and other open sources of code are the reasons why we were able to implement the "special sauce" of our application.
 
