@@ -10,8 +10,8 @@ labels:
   - frameworks
 ---
 <div>
-  <img class="ui right floated tiny image" src="../images/copying-image.png">
-</div>
+  <img class="ui right floated image" src="../images/copying-image.png">
+
 
 # We Stand On the Shoulders of Giants
 
@@ -34,3 +34,4 @@ All the progress we've made so far with understanding and programming our applic
 We would learn very quickly the importance of templates, starter code, and design patterns if we were tasked to build our project from nothing. However, just like every programmer, design patterns are not perfect or forever. 
 
 Using design patterns is really about embracing the learning opportunity that comes from studying and experimenting with them for our own needs. We should not copy-paste code simply because it makes things easier for us. We are given this opportunity to learn from other people's corrections and use that to direct our own choices. These resources, when used correctly, can really shape our experiences as programmers and people.
+</div>
