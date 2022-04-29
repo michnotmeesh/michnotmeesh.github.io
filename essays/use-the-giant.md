@@ -10,7 +10,7 @@ labels:
   - frameworks
 ---
 <div>
-  <img class="ui right floated small image" src="../images/good-question.png">
+  <img class="ui right floated small image" src="../images/copying-image.png">
 </div>
 
 # We Stand On the Shoulders of Giants
