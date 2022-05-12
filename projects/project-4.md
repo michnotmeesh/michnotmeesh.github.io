@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hawaii.jpeg
+image: images/JobMatchUHLogo.png
 title: Job Match'UH
 permalink: projects/jobmatchuh
 # All dates must be YYYY-MM-DD format!
