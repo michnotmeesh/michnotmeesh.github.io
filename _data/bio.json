@@ -2,11 +2,11 @@
   "basics": {
     "name": "Michelle Leano",
     "label": "Student",
-    "picture": "https://michnotmeesh.github.io//images/IMG_2199_ccexpress.jpeg",
-    "email": "leanomc@hawaii.edu",
+    "picture": "https://michnotmeesh.github.io//images/profile.jpeg",
+    "email": "leanomich@gmail.com",
     "phone": "808-386-5475",
     "website": "https://michnotmeesh.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "I graduated with a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii in Spring 2023.",
     "location": {
       "address": "",
       "postalCode": "96797",
@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "michelle-leano",
-        "url": "http://linkedin.com/in/michelle-leano-75487222a/"
+        "url": "https://www.linkedin.com/in/michelle-leano/"
       }
     ]
   },
@@ -44,17 +44,12 @@
       ]
     },
     {
-      "name": "Music Hardware",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "Sustainability",
+      "name": "Networking",
       "keywords": [
       ]
     }
@@ -88,7 +83,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2023)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2020-08-24",
       "endDate": "Present",
@@ -106,10 +101,10 @@
   "work": [
     {
       "company": "College of Natural Sciences Deans Office",
-      "position": "Administrative Assistant",
+      "position": "STEM Student Assistant",
       "website": "https://uhnatsci.org/emporium/tutorschedules.php",
       "startDate": "2021-05-17",
-      "endDate": "Present",
+      "endDate": "2023-05-12",
       "summary": "Provide support for the STEM Coordinator in the CNS Deans Office",
       "highlights": [
         "Maintain and update Learning Emporium website",
