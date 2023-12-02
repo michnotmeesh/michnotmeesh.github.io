@@ -43,3 +43,4 @@ Watch a video demo of our application: <a href="https://www.youtube.com/watch?v=
 ### Credits
 
 In collaboration with Eda Cadiena, Timothy Huo, Ethan Chee, Jeraldine Joy Milla, and Alvin Edrada.
+Read about all the <a href="https://www.ics.hawaii.edu/2022/12/big-wins-for-ics-students-at-hawaii-annual-code-challenge/">winners from the Hawai'i Annual Code Challenge 2022</a>.
