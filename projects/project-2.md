@@ -37,5 +37,4 @@ This project is very fulfilling because it utilized all of the skills we learned
 
 ## Links
 
-View Job Match UH [here](https://jobmatchuh.xyz/#/).
 View our project homepage [here](https://job-match-uh.github.io/) and our source code [here](https://github.com/Job-Match-UH/source).
