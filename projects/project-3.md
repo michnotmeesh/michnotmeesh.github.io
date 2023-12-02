@@ -13,8 +13,9 @@ labels:
   - Bootstrap UI
 summary: Broadband for Hawaiʻi is an interactive accessible online platform that allows people to learn more about the internet. Developed for the Hawai'i Annual Code Challenge 2022.
 ---
-
+<p>
 <img src="../images/Broadband-homepage.png" class="img-fluid"/>
+</p>
 
 # Broadband for Hawai`i
 
@@ -34,8 +35,9 @@ An important part of collaborations is understanding each other's strengths and 
 I focused on the front end. My reponsibilities include: the design of the classes and lessons page, the functionality of the lessons page, and implementing ADA compliant features to our images, icons, text, and videos. 
 
 ## Results
+<p>
 <img src="../images/HACC-logo.png" class="img-fluid"/>
-
+</p>
 Our team placed 3rd overall in the Custom Coded Solution Division, as well as earning the People's Choice Award. For more information on this project, our devpost article is linked <a href="https://devpost.com/software/chipmunks">here</a>. 
 
 Watch a video demo of our application: <a href="https://www.youtube.com/watch?v=ICR5q8FrtbE&feature=emb_logo">here</a>.
