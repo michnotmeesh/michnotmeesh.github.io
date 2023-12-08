@@ -13,9 +13,8 @@ labels:
   - Bootstrap UI
 summary: Broadband for Hawaiʻi is an interactive accessible online platform that allows people to learn more about the internet. Developed for the Hawai'i Annual Code Challenge 2022.
 ---
-<p>
-<img src="../images/Broadband-homepage.png" class="ui centered image"/>
-</p>
+
+<img src="../images/Broadband-homepage.png" class="ui medium centered image"/>
 
 # Broadband for Hawai`i
 
